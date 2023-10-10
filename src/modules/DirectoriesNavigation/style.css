@@ -1,0 +1,6 @@
+.directory-list-item {
+  @apply flex items-center p-3 cursor-pointer
+    hover:bg-white 
+    justify-between
+    border-b-white border-b-2;
+}
